@@ -74,7 +74,7 @@ The percentage of cancelled orders is **2%**. This is <5%, so it is within indus
 ### Visualization  
 This project contains one report page. 
 
-![](image/Dashboard.png)
+![](images/Dashboard.png)
 
 ---
 ### Recommendations
