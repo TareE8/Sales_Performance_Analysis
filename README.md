@@ -74,7 +74,33 @@ The percentage of cancelled orders is **2%**. This is <5%, so it is within indus
 ### Visualization  
 This project contains one report page. 
 
-![](images/Dashboard.png)
+![](images/Dashboard.PNG)
+
+
+**Most Popular Shipping Mode**
+
+![](images/pop_shippingmode.PNG)
+
+
+**Top 10 Customers by Revenue** 
+
+![](images/cust_by_rev.PNG)
+
+
+**Top 5 Products by Quantity Sold**
+
+![](images/prdt_by_qty.PNG)
+
+
+**Top 5 Product Categories by Revenue**
+
+![](images/prdt_cat_by_rev.PNG)
+
+
+**Customer Segment Contributing the Most Revenue**
+
+![](images/rev_by_custseg.PNG)
+
 
 ---
 ### Recommendations
